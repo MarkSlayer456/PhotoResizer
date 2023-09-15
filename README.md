@@ -4,7 +4,7 @@ it simply makes a new folder in the directory and stores the newly sized photos 
 
 ## Requirements
 - Python 3
-- Pillow for python `pip install pil`
+- Pillow for python `pip install pillow`
 
 ## Usage
 python3 main.py <width in pixels> <height in pixels> <directory with photos>
