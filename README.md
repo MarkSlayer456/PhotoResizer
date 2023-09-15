@@ -10,6 +10,6 @@ it simply makes a new folder in the directory and stores the newly sized photos 
 python3 main.py <width in pixels> <height in pixels> <directory with photos>
 
 ## Examples
-python3 main.py 100 100 .
+`python3 main.py 100 100 .`
 
 this would take every picture in the current directory and resize it! 
